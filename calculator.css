@@ -1,0 +1,65 @@
+body{
+	background-image: url("mn.jpg");
+	background-repeat: repeat;
+	background-size: cover;
+	text-align: center;
+	
+}
+.abc{
+	float: right;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #582D02;
+}
+.bnm{
+	float: center;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #582D02;
+}
+
+
+h2{
+	font:  bold 24px/30px "Comic Sans MS", cursive, sans-serif;
+	font-size: 30px;
+	text-align: center;
+	Color: #2F4F4F  ;
+	margin-top: 100px;
+}
+p{
+	margin-top:50px;
+	font:  bold 15px/20px "Comic Sans MS", cursive, sans-serif;
+	Color: black;
+	margin-left: 550px;
+}
+
+form{
+	font-size: 25px;
+	color:black;
+	font:  bold 15px/20px "Comic Sans MS", cursive, sans-serif;
+	margin: auto;
+}
+.container{
+
+	margin: auto;
+	
+	
+}

@@ -1,0 +1,92 @@
+
+body{
+	background-image: url("mn.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	
+}
+.img-circle{
+	border-radius:60%;
+	float:right;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #582D02;
+    
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+   
+}
+.abc{
+	float: right;
+}
+li a:hover {
+    background-color:#582D02;
+}
+
+.xyz{
+	color: burlywood;
+}
+ 
+h1 {
+	font-size: 50px;
+	text-align: center;
+	Color: white;
+}
+#div {
+	
+	text-align: center;
+	
+	font-weight: 600;
+	Color: #F5FFFA;
+		}
+h2 {
+	
+	font:  bold 24px/30px Georgia, serif;
+	Color: #FFE4B5;
+}
+h3 {
+	
+	font:  bold 22px/30px Georgia, serif;
+	Color: #3C1F03;
+}
+h4 {
+	margin-bottom:-20px;
+	font:  bold 20px/30px Georgia, serif;
+	Color: black;
+}
+footer{
+	
+	Color: 	BLACK;
+	float: right;
+	font:   bold 20px/20px Georgia, serif;
+}
+p{
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	font-weight: bold;
+	color: black;
+}	
+header{
+	margin-top: 20px;
+	Color: 	BLACK;
+	font:   bold 25px/25px Georgia, serif;
+	
+}
+.container{
+	margin: auto;
+}
+
